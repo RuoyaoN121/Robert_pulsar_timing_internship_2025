@@ -1,0 +1,11 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.log
+*.aux
+*.fls
+*.fdb_latexmk
+*.out
+*.toc
+*.swp
+.DS_Store
